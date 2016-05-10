@@ -1,0 +1,33 @@
+
+
+
+p{
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+}
+
+#special {
+  font-family: 'Roboto', sans-serif;
+}
+
+span{
+  font-family: 'Roboto', sans-serif;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.plain {
+  text-decoration: none;
+}
+
+.nostyle{
+  list-style-type: none;
+  list-style: none;
+  color: black;
+}
+
+.nostyle:hover{
+  color: black;
+}
